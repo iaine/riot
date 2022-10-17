@@ -1,0 +1,2 @@
+Add Seaborn barplot
+Create table of authors and values then graph
