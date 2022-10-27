@@ -1,9 +1,9 @@
 ## Python Resources
 
-*  Data Carpentry ()
+*  [Data Carpentry](https://datacarpentry.org/)
 
-*  Software Carpentry ()
+*  [Software Carpentry](https://software-carpentry.org/)
 
 Recipes
 
-*  Programming for Historians
+*  [Programming Historians](https://programminghistorian.org/)
