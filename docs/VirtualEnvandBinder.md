@@ -32,4 +32,8 @@ It is a choice. The pinning of packages to certain versions can cause issues whe
 
 ## Binder
 
-Binder is a service that can run Jupyter notebooks online and uses the requirements.txt file from pip freeze to load the modules.
+Binder allows you to run Jupyter notebooks in an executable environment to support reproducibility. It uses Jupyter and, for Python, the requirements.txt file from pip to install the notebook. The [MyBinder](https://mybinder.org/) is an open resource that allows you to build from Github. 
+
+The service provides a shareable link and button that can launch your notebook (but it can take a few minutes).
+
+This website uses a very simple notebook but MyBinder is well documented and very helpful. 
