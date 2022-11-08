@@ -14,11 +14,11 @@ Some Python resources to get more help in learning Python  [Python Resources](./
 
 ## Jupyter
 
-[Jupyter Notebooks](./docs/Jupyter.md]
+[Jupyter Notebooks](./docs/Jupyter.md)
 
 ## Virtual Environements and Binder
 
-[Virtual Environements and Binder](./docs/VirtualEnvandBinder.md)
+[Virtual Environments and Binder](./docs/VirtualEnvandBinder.md)
 
 
 ## Author
