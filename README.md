@@ -17,7 +17,7 @@ Some Python resources to get more help in learning Python
 
 [Jupyter Notebooks](./docs/Jupyter.html)
 
-## Virtual Environements and Binder
+## Virtual Environments and Binder
 
 [Virtual Environments and Binder](./docs/VirtualEnvandBinder.html)
 
