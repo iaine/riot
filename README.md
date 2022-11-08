@@ -8,17 +8,18 @@ These are large subjects, so any resource is likely to be missing something and 
 
 This is a Binder notebook to support the first part of the talk. 
 
-Some Python resources to get more help in learning Python  [Python Resources](./docs/PythonResource.md)
+Some Python resources to get more help in learning Python  
+[Python Resources](./docs/PythonResource.html)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/riot/HEAD)
 
 ## Jupyter
 
-[Jupyter Notebooks](./docs/Jupyter.md)
+[Jupyter Notebooks](./docs/Jupyter.html)
 
 ## Virtual Environements and Binder
 
-[Virtual Environments and Binder](./docs/VirtualEnvandBinder.md)
+[Virtual Environments and Binder](./docs/VirtualEnvandBinder.html)
 
 
 ## Author
