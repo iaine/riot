@@ -1,6 +1,6 @@
 ## Jupyter
 
-Jupyter is an interactive environment that allows you to run code and document it as you go along. It supports Python by default but you can get it to run R and Julia as well. 
+Jupyter is an interactive environment that allows you to run code and document it as you go along. It supports Python by default but you can get it to run R and Julia as well. It is useful to test code as you develop it, make notes about your assumptions and to document your work. 
 
 Jupyter is not installed with Python (unless you are using Anaconda where it is a default package). It can be installed through pip ```pip install jupyter``` or ```pip3 install jupyter```. 
 
