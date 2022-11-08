@@ -12,6 +12,10 @@ Some Python resources to get more help in learning Python  [Python Resources](./
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iaine/riot/HEAD)
 
+## Jupyter
+
+[Jupyter Notebooks](./docs/Jupyter.md]
+
 ## Virtual Environements and Binder
 
 [Virtual Environements and Binder](./docs/VirtualEnvandBinder.md)
