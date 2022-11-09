@@ -10,9 +10,11 @@ Once installed and you have changed into the directory where you are working, it
 
 You should see the homescreen. 
 
-![Jupyter homepage](../figs/start_book.png)
+![Jupyter homepage](../figs/jupyter_home.png)
 
 Open a new notebook from the screen options. I chose a Python 3 notebook. 
+
+![Jupyter notebook](../figs/start_book.png)
 
 By default, the notebook is called "Untitled". If you click on it, you can change it to something meaningful. This also changes the filename to match it so it is helpful to find the notebook later. 
 
